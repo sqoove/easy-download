@@ -2,7 +2,7 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  *
  * @package Easy_Download
@@ -13,7 +13,7 @@
  * Class `Easy_Download_Loader`
  * @package Easy_Download
  * @subpackage Easy_Download/includes
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Easy_Download_Loader
 {

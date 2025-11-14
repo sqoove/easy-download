@@ -2,7 +2,7 @@
 /**
  * Fired during plugin deactivation
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  *
  * @package Easy_Download
@@ -15,7 +15,7 @@
  * @since 1.0.0
  * @package Easy_Download
  * @subpackage Easy_Download/includes
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Easy_Download_Deactivator
 {

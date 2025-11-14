@@ -7,7 +7,7 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  * @package Easy_Download
  *
@@ -16,8 +16,8 @@
  * Plugin URI: https://wordpress.org/plugins/easy-download/
  * Description: Easy Download help you to manage the files you offer to your users to download.
  * Version: 1.3.0
- * Author: NeosLab
- * Author URI: https://neoslab.com
+ * Author: Sqoove
+ * Author URI: https://sqoove.com
  * License: GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain: easy-download

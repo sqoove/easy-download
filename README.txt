@@ -1,10 +1,10 @@
 === Easy Download ===
-Contributors: NeosLab
+Contributors: Sqoove
 Tags: download manager, document management, file manager, document management plugin, download monitor
 Requires at least: 4.9
 Tested up to: 6.8.2
 Stable tag: 1.3.0
-License URI: https://raw.githubusercontent.com/neoslabx/easy-download/refs/heads/main/LICENSE
+License URI: https://raw.githubusercontent.com/sqoove/easy-download/refs/heads/main/LICENSE
 
 Easy Download help you to manage the files you offer to your users to download.
 

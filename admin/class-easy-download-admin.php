@@ -2,7 +2,7 @@
 /**
  * The admin-specific functionality of the plugin
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  * @package Easy_Download
  * @subpackage Easy_Download/admin
@@ -12,7 +12,7 @@
  * Class `Easy_Download_Admin`
  * @package Easy_Download
  * @subpackage Easy_Download/admin
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Easy_Download_Admin
 {

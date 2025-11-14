@@ -4,7 +4,7 @@
  *
  * A class definition that includes attributes and functions used across the admin area
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  *
  * @package Easy_Download
@@ -16,7 +16,7 @@
  * @since 1.0.0
  * @package Easy_Download
  * @subpackage Easy_Download/includes
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Easy_Download
 {

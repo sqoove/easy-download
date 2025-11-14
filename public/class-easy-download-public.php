@@ -2,7 +2,7 @@
 /**
  * The public-facing functionality of the plugin
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  * @package Maintenance_Work
  * @subpackage Maintenance_Work/public
@@ -12,7 +12,7 @@
  * Class `Easy_Download_Public`
  * @package Maintenance_Work
  * @subpackage Maintenance_Work/public
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Easy_Download_Public
 {

@@ -3,7 +3,7 @@
  * Return total downloads
  * @param $uuid the file unique identifier
  * @return void
- * @author NeosLab
+ * @author Sqoove
 */
 if(!function_exists('easy_download_total'))
 {
